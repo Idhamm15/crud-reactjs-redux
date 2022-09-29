@@ -6,7 +6,6 @@ export const POST_USER_CREATE = "POST_USER_CREATE";
 export const PUT_USER_EDIT = "PUT_USER_EDIT";
 
 
-
 export const getUsersList = () => {
   return (dispatch) => {
     axios
